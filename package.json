@@ -5,8 +5,8 @@
   "main": "tinysurvey.mjs",
   "scripts": {
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
-    "devStart": "nodemon tinysurvey.mjs",
-    "start":"node tinyservey.js"
+    "devstart": "nodemon tinysurvey.mjs",
+    "start":"node tinysurvey.mjs"
   },
   "author": "Rob Miles",
   "license": "ISC",
